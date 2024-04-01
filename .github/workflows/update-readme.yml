@@ -42,4 +42,4 @@ jobs: # 실제 실행될 내용
          
     - name: Push changes # 4) 메인에 푸시
       run: |
-         git push
+        git push https://${{ secrets.ALGO }}@github.com/GoldenPearls/Algorithm-Data-Structure/README.md #자신의 깃허브명으로 바꿔야 함
