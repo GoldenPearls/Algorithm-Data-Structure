@@ -10,6 +10,15 @@ HEADER="""#
 
 """
 
+# 깃허브 레포지토리 경로
+repo_path = '.'
+
+# '백준' 폴더 경로
+posts_dir = os.path.join(repo_path, 'README.md')
+
+# 레포지토리 로드
+repo = git.Repo(repo_path)
+
 def main():
     content = ""
     content += HEADER
