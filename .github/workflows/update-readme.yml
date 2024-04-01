@@ -8,7 +8,7 @@ on:
         - main  # 또는 워크플로우를 트리거하고 싶은 브랜치 이름
 
 jobs: # 실제 실행될 내용
-  update_blog:
+  update_readme:
     runs-on: ubuntu-latest
 
     steps:
