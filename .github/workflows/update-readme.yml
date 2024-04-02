@@ -42,5 +42,5 @@ jobs: # 실제 실행될 내용
          
     - name: Push changes # 4) 메인에 푸시
       run: |
-        git push https://${{ secrets.GH_PAT }}@github.com/GoldenPearls/velog.git #자신의 깃허브명으로 바꿔야 함
+        git push https://${{ secrets.GH_PAT }}@github.com/GoldenPearls/Algorithm-Data-Structure.git #자신의 깃허브명으로 바꿔야 함
 
