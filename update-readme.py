@@ -11,7 +11,7 @@ HEADER="""#
 """
 
 # 깃허브 레포지토리 경로
-repo_path = '.'
+repo_path = ''
 
 # '백준' 폴더 경로
 posts_dir = os.path.join(repo_path, 'README.md')
