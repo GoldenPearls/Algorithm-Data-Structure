@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 
 import os
+import git
 from urllib import parse
 
 HEADER="""# 
