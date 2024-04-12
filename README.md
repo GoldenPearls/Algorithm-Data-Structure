@@ -21,3 +21,5 @@
 
 ⚫️ : 알고리즘 못한 날
 
+
+https://www.acmicpc.net/submit/1247/76838237 : 다시 풀어야 함 
