@@ -2,7 +2,10 @@
 ### 🍇 1 일 1 포도알고리즘 풀기 챌린지 🍇(feat. 이트루님 깃허브)
 멜로나 알고리즘이랑 친해지기 챌린지의 일환으로 매일 스스로에게 칭찬 스티커라도 부여하며 만족감을 느끼기 위함ㅋㅋㅋ
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=prettylee620)](https://solved.ac/prettylee620)
+</br>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=prettylee620)](https://solved.ac/prettylee620) &nbsp; &nbsp;
+<img src="http://mazandi.herokuapp.com/api?handle=prettylee620&theme=warm"/>
 
 ### 📌 셀프 포도알 규칙
 ⏰ 30분 룰 : 시간 초과하면 스탑하기
