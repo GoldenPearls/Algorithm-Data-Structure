@@ -21,4 +21,11 @@
 
 ⚫️ : 다시 풀어야 하는 문제
 
- 
+### 브론즈
+| 날짜 | 문제 이름 | 문제번호 | 링크 | 스티커 |
+| ----- | ------ | ----- |----- | ----- |
+| 24/3/27  | A+B | 1000 | https://www.acmicpc.net/problem/1000 | 🟣 |
+| 24/3/31 | A-B | 1001 | https://www.acmicpc.net/problem/1001 | 🟣 |
+| 24/4/8 | 직사각형에서 탈출 | 1085 | https://www.acmicpc.net/problem/1085 | 🟢 |
+| 24/4/15 | 부호 | 1247 | https://www.acmicpc.net/problem/1247| 🟢, 🟡|
+| 24/4/4 | 모음의 개수 | 1254 | https://www.acmicpc.net/problem/1264 | 🟣 |
