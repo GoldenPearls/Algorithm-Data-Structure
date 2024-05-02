@@ -36,6 +36,8 @@
 
 </details>
 
+https://www.acmicpc.net/problem/1009 다시 풀기
+
 
 ### 브론즈
 | 날짜 | 문제 이름 | 문제번호 | 링크 | 스티커 |
